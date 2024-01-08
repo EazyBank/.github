@@ -1,6 +1,6 @@
-# Easy Bank
+# Eazy Bank
 
-Welcome to Easy Bank, a simple and effective application demonstrating the synergy of Angular.js for the frontend and Spring Boot for the backend.
+Welcome to Eazy Bank, a simple and effective application demonstrating the synergy of Angular.js for the frontend and Spring Boot for the backend.
 
 ## Overview
 
@@ -19,12 +19,12 @@ This application provides a straightforward illustration of Spring Security inte
 
 ## Getting Started
 
-Follow these steps to run Easy Bank locally:
+Follow these steps to run Eazy Bank locally:
 
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/easy-bank.git
+   git clone https://github.com/your-username/Eazy-bank.git
    ```
 
 2. **Frontend Setup**:
@@ -53,10 +53,10 @@ Follow these steps to run Easy Bank locally:
 
 4. **Access the Application**:
 
-   - Open your web browser and go to `http://localhost:4200` to access Easy Bank.
+   - Open your web browser and go to `http://localhost:4200` to access Eazy Bank.
 
 ## Contact
 
 For any inquiries or feedback, feel free to contact us at [wakahiad@gmail.com](mailto:wakahiad@gmail.com).
 
-Thank you for exploring Easy Bank. Happy coding!
+Thank you for exploring Eazy Bank. Happy coding!
